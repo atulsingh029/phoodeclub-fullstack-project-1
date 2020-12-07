@@ -112,7 +112,7 @@ body {
 }
 
 #smco {
-  background-image: url("/static/cbsm.jpg");
+  background-image: url("static/cbsm.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   overflow: hidden;
