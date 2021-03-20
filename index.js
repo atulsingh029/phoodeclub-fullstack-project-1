@@ -34,7 +34,7 @@ let items = [
 {"id":"4","name":"Ice Cream","description":"no data available","price":"Rs. 120","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/ice.jpg","category":"desert"},
 {"id":"5","name":"Chicken","description":"no data available","price":"Rs. 300","img":"/restaurant-frontend-fullstack-1-project/static/chicken.jpg","category":"non veg"},
 {"id":"6","name":"Egg Curry","description":"no data available","price":"Rs. 250 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/egg.jpeg","category":"non veg"},
-{"id":"7","name":"Biryani","description":"no data available","price":"Rs. 500 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/bur.jpeg","category":"non veg"},
+{"id":"7","name":"Biryani","description":"no data available","price":"Rs. 500 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/bir.jpeg","category":"non veg"},
 ];
 function loadmenu(){
 
