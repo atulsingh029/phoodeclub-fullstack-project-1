@@ -27,14 +27,14 @@ function homed(){
 
 document.addEventListener("load", user_status_checker() );
 let items = [
-{"id":"0","name":"Burger","description":"no data available","price":"Rs. 150","img":"","category":"Starter"},
-{"id":"1","name":"Chilli Potato","description":"no data available","price":"Rs. 300 per plate","img":"","category":"starter"},
-{"id":"2","name":"Fried Rice","description":"no data available","price":"Rs. 300 per plate","img":"/static/fr.jpg","category":"main course"},
-{"id":"3","name":"Chapati","description":"no data available","price":"Rs. 45","img":"","category":"main course"},
-{"id":"4","name":"Ice Cream","description":"no data available","price":"Rs. 120","img":"/static/icec.jpg","category":"desert"},
+{"id":"0","name":"Burger","description":"no data available","price":"Rs. 150","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/bur.jpeg","category":"Starter"},
+{"id":"1","name":"Chilli Potato","description":"no data available","price":"Rs. 300 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/chicken.jpg","category":"starter"},
+{"id":"2","name":"Fried Rice","description":"no data available","price":"Rs. 300 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/fried.jpeg","category":"main course"},
+{"id":"3","name":"Chapati","description":"no data available","price":"Rs. 45","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/chap.jpeg","category":"main course"},
+{"id":"4","name":"Ice Cream","description":"no data available","price":"Rs. 120","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/ice.jpg","category":"desert"},
 {"id":"5","name":"Chicken","description":"no data available","price":"Rs. 300","img":"/restaurant-frontend-fullstack-1-project/static/chicken.jpg","category":"non veg"},
-{"id":"6","name":"Egg Curry","description":"no data available","price":"Rs. 250 per plate","img":"","category":"non veg"},
-{"id":"7","name":"Biryani","description":"no data available","price":"Rs. 500 per plate","img":"","category":"non veg"},
+{"id":"6","name":"Egg Curry","description":"no data available","price":"Rs. 250 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/egg.jpeg","category":"non veg"},
+{"id":"7","name":"Biryani","description":"no data available","price":"Rs. 500 per plate","img":"https://atulsingh029.github.io/restaurant-frontend-fullstack-1-project/static/bur.jpeg","category":"non veg"},
 ];
 function loadmenu(){
 
